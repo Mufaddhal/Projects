@@ -3,7 +3,6 @@
 Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
 
 ## Demo
-Watch the video
 [![Watch the video](https://img.youtube.com/vi/7h0dEJUclzk/hqdefault.jpg)](https://www.youtube.com/embed/7h0dEJUclzk)
 
 ## 🚀 How to use
